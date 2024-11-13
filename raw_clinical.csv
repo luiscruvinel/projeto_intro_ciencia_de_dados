@@ -1,0 +1,58 @@
+Anonym ID,GEO ID,Methylation group,Reference center,Sex,Age at diagnosis (years),Clinical presentation,Tumor size (cm),Tumor weight (g),Disease stage,Tumor diagnosis (score),Adjuvant chemotherapy,Recurrence/metastasis,Follow-up (years),Outcome,Germline p53,Somatic B-catenin
+pACT001,GSM5411003,pACT-1,FMRP-USP,F,8.0,C,9.5,230.0,III,UMP (3),Yes,Yes,1.3,Deceased,p.R337H,WT
+pACT003,GSM5411004,pACT-2,FMRP-USP,F,0.2,A,2.6,6.0,IV,ACA (1),Yes,No,2.8,Alive and disease-free,p.P152L,WT
+pACT006,GSM5411005,pACT-2,BCC-SUC,M,1.2,V,8.5,120.0,II,UMP (3),No,No,1.5,Alive and disease-free,NA,NA
+pACT009,GSM5411006,pACT-2,FMRP-USP,F,1.4,V,8.0,151.0,II,UMP (3),No,No,9.6,Alive and disease-free,p.R337H,p.S37C
+pACT010,GSM5411007,pACT-2,BCC-SUC,F,2.9,V,3.0,11.5,I,ACA (1),No,No,5.4,Alive and disease-free,p.R337H,WT
+pACT012,GSM5411008,pACT-1,FMRP-USP,M,2.8,V,15.0,828.0,IV,ACC (6),Yes,Yes,0.5,Deceased,p.R337H,p.S45P
+pACT013,GSM5411009,pACT-2,FMRP-USP,F,1.6,V,5.5,77.0,I,UMP (3),No,No,3.2,Alive and disease-free,p.R337H,WT
+pACT014,GSM5411010,pACT-2,BCC-SUC,F,8.8,V,3.5,21.5,I,UMP (3),No,No,6.0,Alive and disease-free,p.R337H,WT
+pACT017,GSM5411011,pACT-2,FMRP-USP,F,0.4,C,6.0,60.0,I,UMP (3),No,No,22.3,Alive and disease-free,p.R337H,WT
+pACT020,GSM5411012,pACT-2,FMRP-USP,F,3.0,V,13.0,402.0,II,UMP (3),Yes,No,1.7,Alive and disease-free,p.R337H,WT
+pACT021,GSM5411013,pACT-2,FMRP-USP,F,0.4,V,9.00,153.00,II,NA,No,No,13.1,Alive and disease-free,p.R337H,WT
+pACT025,GSM5411014,pACT-1,BCC-SUC,M,16.6,A,16.00,830.00,IV,ACC (7),Yes,Yes,0.90,Deceased,p.R337H,WT
+pACT026,GSM5411015,pACT-2,FMRP-USP,M,3.8,V,5.20,44.00,I,ACC (4),Yes,Yes,14.20,Alive with active disease,p.R337H,WT
+pACT028,GSM5411016,pACT-2,BCC-SUC,F,2.1,V,4.30,70.00,I,ACA (1),No,No,1.10,Alive and disease-free,p.R337H,WT
+pACT029,GSM5411017,pACT-1,FMRP-USP,F,16.0,C,9.00,347.00,IV,ACC (4),Yes,Yes,0.80,Deceased,p.R337H,WT
+pACT030,GSM5411018,pACT-2,BCC-SUC,M,0.4,V,7.20,110.00,II,UMP (3),No,No,5.20,Alive and disease-free,p.R337H,WT
+pACT035,GSM5411019,pACT-1,FMRP-USP,F,6.5,V,4.60,29.00,II,ACC (5),Yes,Yes,3.70,Deceased,p.R337H,WT
+pACT036,GSM5411020,pACT-2,FMRP-USP,M,1.1,V,7.50,121.00,II,UMP (3),No,Yes,18.20,Alive and disease-free,p.R337H,WT
+pACT037,GSM5411021,pACT-2,FMRP-USP,F,2.8,V,3.00,9.00,I,ACA (1),No,No,9.00,Alive and disease-free,p.R337H,WT
+pACT038,GSM5411022,pACT-2,FMRP-USP,F,0.7,A,3.80,9.00,I,ACA (2),No,No,3.40,Alive and disease-free,p.R337H,WT
+pACT040,GSM5411023,pACT-2,FMRP-USP,F,1.5,V,3.00,19.00,I,UMP (3),No,No,4.40,Alive and disease-free,p.R337H,WT
+pACT045,GSM5411024,pACT-2,FMRP-USP,F,2.0,V,4.20,39.00,I,ACA (1),No,No,11.80,Alive and disease-free,p.R337H,WT
+pACT046,GSM5411025,pACT-2,FMRP-USP,F,1.7,V,5.60,41.00,I,ACC (4),No,No,6.90,Alive and disease-free,p.R337H,p.S45P
+pACT048,GSM5411026,pACT-2,FMRP-USP,M,2.2,V,4.50,10.00,I,ACA (1),No,No,0.60,Alive and disease-free,p.R337H,WT
+pACT049,GSM5411027,pACT-2,FMRP-USP,F,9.1,V,3.50,21.00,I,ACA (0),No,No,5.20,Alive and disease-free,WT,WT
+pACT050,GSM5411028,pACT-1,FMRP-USP,M,15.6,C,16.00,703.00,IV,ACC (5),Yes,Yes,0.70,Deceased,p.R337H,p.S37C
+pACT053,GSM5411029,pACT-2,FMRP-USP,F,3.0,V,4.30,16.00,I,UMP (3),No,No,7.10,Lost to follow-up,p.R337H,WT
+pACT054,GSM5411030,pACT-2,BCC-SUC,F,1.6,V,7.00,110.00,II,ACA (2),No,No,9.60,Alive and disease-free,p.R337H,WT
+pACT055,GSM5411031,pACT-2,FMRP-USP,F,2.0,V,2.60,8.00,I,ACA (1),No,No,1.50,Alive and disease-free,p.R337H,WT
+pACT058,GSM5411032,pACT-1,FMRP-USP,F,1.2,V,3.70,32.00,I,ACC (5),No,No,6.70,Alive and disease-free,p.R337H,WT
+pACT059,GSM5411033,pACT-2,BCC-SUC,M,2.2,V,5.50,30.00,I,ACA (2),No,No,4.40,Alive and disease-free,p.R337H,p.G34E
+pACT060,GSM5411034,pACT-2,FMRP-USP,F,13.2,A,4.00,154.00,II,ACA (0),No,No,5.10,Alive and disease-free,WT,WT
+pACT061,GSM5411035,pACT-2,BCC-SUC,M,0.8,A,11.50,390.00,III,NA,No,Yes,0.70,Alive with active disease,NA,WT
+pACT062,GSM5411036,pACT-2,BCC-SUC,F,1.5,A,2.50,NA,I,NA,No,No,0.80,Alive and disease-free,p.R337H,WT
+pACT064,GSM5411037,pACT-1,FMRP-USP,M,6.9,C,9.5,108.0,II,UMP (3),Yes,Yes,0.6,Deceased,p.R337H,WT
+pACT065,GSM5411038,pACT-2,BCC-SUC,F,3.7,V,8.5,250.0,II,UMP (3),No,No,6.3,Alive and disease-free,p.R337H,WT
+pACT067,GSM5411039,pACT-2,BCC-SUC,F,2.3,V,10.0,350.0,II,UMP (3),No,No,4.3,Alive and disease-free,p.R337H,WT
+pACT068,GSM5411040,pACT-2,FMRP-USP,F,1.4,V,3.7,16.0,I,ACA (2),No,No,1.40,Alive and disease-free,p.R337H,WT
+pACT070,GSM5411041,pACT-2,BCC-SUC,M,3.2,V,3.0,40.0,I,ACA (1),No,No,7.2,Alive and disease-free,p.R337H,NA
+pACT073,GSM5411042,pACT-2,BCC-SUC,F,1.4,V,7.0,110.0,II,ACA (1),No,No,8.8,Alive and disease-free,NA,NA
+pACT075,GSM5411043,pACT-2,FMRP-USP,F,0.9,V,3.5,15.0,I,ACA (1),No,No,9.1,Alive and disease-free,p.R337H,WT
+pACT078,GSM5411044,pACT-2,FMRP-USP,F,1.5,V,6.5,85.0,III,NA,No,Yes,9.0,Alive and disease-free,p.R337H,WT
+pACT081,GSM5411045,pACT-2,BCC-SUC,M,0.7,V,2.0,10.2,I,UMP (3),No,No,5.5,Alive and disease-free,p.R337H,WT
+pACT085,GSM5411046,pACT-2,FMRP-USP,F,1.7,V,6.0,84.0,I,ACA (1),No,No,1.0,Lost to follow-up,p.R337H,WT
+pACT087,GSM5411047,pACT-2,FMRP-USP,F,1.5,V,7.0,113.0,III,ACC (4),No,Yes,0.2,Lost to follow-up,p.R337H,WT
+pACT088,GSM5411048,pACT-2,FMRP-USP,F,2.5,V,4.6,10.0,I,ACA (1),No,No,0.2,Lost to follow-up,p.R337H,WT
+pACT090,GSM5411049,pACT-2,FMRP-USP,M,1.2,V,5.3,50.0,I,ACA (2),No,No,4.3,Alive and disease-free,p.R337H,WT
+pACT092,GSM5411050,pACT-2,FMRP-USP,F,2.1,V,4.5,71.0,I,ACC (4),No,No,2.8,Alive and disease-free,p.R337H,WT
+pACT093,GSM5411051,pACT-2,FMRP-USP,F,12.3,C,7.0,53.0,I,ACA (2),No,No,12.0,Alive and disease-free,WT,WT
+pACT094,GSM5411052,pACT-2,FMRP-USP,M,0.8,V,3.7,20.0,I,ACA (1),No,No,12.7,Alive and disease-free,p.R337H,p.S37C
+pACT095,GSM5411053,pACT-2,BCC-SUC,F,1.7,V,5.5,60.0,I,UMP (3),No,No,3.2,Alive and disease-free,p.R337H,NA
+pACT096,GSM5411054,pACT-2,BCC-SUC,F,9.3,V + C,14.0,520.0,II,ACC (7),Yes,Yes,0.8,Deceased,p.R337H,WT
+pACT097,GSM5411055,pACT-2,FMRP-USP,F,11.6,A,25.0,2350.0,II,ACC (4),Yes,Yes,18.0,Alive with active disease,p.P213R,p.S45P
+pACT098,GSM5411056,pACT-2,BCC-SUC,F,2.8,V,5.4,48.0,I,ACA (0),No,No,6.8,Alive and disease-free,p.R337H,WT
+pACT101,GSM5411057,pACT-1,BCC-SUC,M,7.6,V,8.0,110.0,III,ACC (5),Yes,Yes,1.8,Deceased,p.R337H,WT
+pACT102,GSM5411058,pACT-2,BCC-SUC,F,1.1,V,5.0,20.0,I,ACA (2),No,No,3.5,Alive and disease-free,p.R337H,WT
+pACT107,GSM5411059,pACT-1,BCC-SUC,M,10.1,V,15.0,1100.0,IV,ACC (6),Yes,Yes,6.7,Alive and disease-free,p.R337H,WT
